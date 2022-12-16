@@ -39,12 +39,12 @@ The list may be changed without decisions at SM, where after SM decides on chang
 - Board member
 - Chapter vice Cashier
 
-#### 2.2.2 Studiemiljönämnden
+#### 2.2.2 Study Enviroment Committee
 
 - StURe
 - Lill-StURe
 
-#### 2.2.3 Studienämnden
+#### 2.2.3 Study Committee
 
 - PAS CINTE
 - PAS TCOMK
@@ -52,28 +52,28 @@ The list may be changed without decisions at SM, where after SM decides on chang
 - PAS TIEDB
 - PAS Master
 
-#### 2.2.4 Näringslivsnämnden
+#### 2.2.4 Business Relations Committee
 
 - vice President
 - Responsible for Kista Arbetsmarknadsdag (KAM)
  
-#### 2.2.5 Kommunikationsnämnden
+#### 2.2.5 Communications Committee
 
 - vice President
 
-#### 2.2.6 Idrottsnämnden
+#### 2.2.6 Sports Committee
 
 - President
 - vice President
 
-#### 2.2.7 Mottagningen
+#### 2.2.7 Reception
 
 - INGEN
 - NÅGON
 - MÅNGA
 - Member - three
 
-#### 2.2.8 PIFF och PUFF
+#### 2.2.8 PIFF and PUFF
 
 - First P
 - First I
@@ -94,15 +94,19 @@ The list may be changed without decisions at SM, where after SM decides on chang
 - Root
 - Sudo
 
-#### 2.2.12 The Elections Committee
+#### 2.2.12 Elections Committee
 
 - Convener
-- Member - at least 4
+- Member - at least four
 
-#### 2.2.13 Andra Positioner
+#### 2.2.13 Council of Safety
+
+- Chief Safety Officer
+- Safety Officer - at least one
+
+#### 2.2.14 Other Positions
 
 - Auditor - two
-- Safety officer
 - History Responsible
 - Standard bearer
 - vice Standard bearer

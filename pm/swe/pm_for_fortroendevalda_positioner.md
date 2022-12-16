@@ -97,7 +97,12 @@ Listan får ändras utan att beslut behöver fattas på SM, var efter SM besluta
 #### 2.2.12 Valberedningen
 
 - Sammankallande
-- Medlem - minst 4
+- Medlem - minst fyra
+
+#### 2.2.13 Trygghetsråd
+
+- Huvudansvarigt skyddsombud
+- Skyddsombud - minst ett
 
 #### 2.2.13 Andra Positioner
 
